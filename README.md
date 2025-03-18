@@ -4,3 +4,5 @@ La société vend principalement des cadeaux uniques pour toutes les occasions. 
 
 Analyse exploratoire réalisé sur le dataset :
 
+
+https://github.com/user-attachments/assets/c604f0d6-3565-4118-820e-f84e8d0e2605
